@@ -1,0 +1,8 @@
+{"event_id":"evt-1001","post_id":"post-501","user_id":"user-101","event_type":"VIEW","event_time":"2026-11-17 10:00:00","views":1,"likes":0,"comments":0}
+{"event_id":"evt-1002","post_id":"post-501","user_id":"user-102","event_type":"LIKE","event_time":"2026-11-17 10:00:05","views":0,"likes":1,"comments":0}
+{"event_id":"evt-1003","post_id":"post-502","user_id":"user-103","event_type":"COMMENT","event_time":"2026-11-17 10:00:10","views":0,"likes":0,"comments":1}
+{"event_id":"evt-1004","post_id":"post-501","user_id":"user-104","event_type":"VIEW","event_time":"2026-11-17 10:00:15","views":1,"likes":0,"comments":0}
+{"event_id":"evt-1005","post_id":"post-503","user_id":"user-105","event_type":"LIKE","event_time":"2026-11-17 10:00:20","views":0,"likes":1,"comments":0}
+{"event_id":"evt-1006","post_id":"post-502","user_id":"user-106","event_type":"VIEW","event_time":"2026-11-17 10:00:25","views":1,"likes":0,"comments":0}
+{"event_id":"evt-1007","post_id":"post-503","user_id":"user-107","event_type":"COMMENT","event_time":"2026-11-17 10:00:30","views":0,"likes":0,"comments":1}
+{"event_id":"evt-1008","post_id":"post-501","user_id":"user-108","event_type":"LIKE","event_time":"2026-11-17 10:00:35","views":0,"likes":1,"comments":0}
